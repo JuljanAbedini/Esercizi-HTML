@@ -1,0 +1,23 @@
+#quadrato 
+ {
+    width: 200px;
+    height: 200px;
+    /* BORDER DIFINED SINGULARMENT
+    border-top: 15px solid black;
+    border-right: 25px solid rgb(24, 38, 236);
+    border-bottom: 30px solid rgb(16, 201, 25);
+    border-left: 17px solid rgb(235, 212, 9); */
+    
+    /* BORDER DEFINITO PER TUTTI I LATI*/
+    border: 1px solid black;
+    background-color: red;
+
+    padding: 10px;
+
+ 
+#quadrato2 {
+    width: 200px;
+    height: 200px;
+ }
+
+}
